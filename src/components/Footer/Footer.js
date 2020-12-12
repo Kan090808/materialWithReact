@@ -47,9 +47,9 @@ export default function Footer(props) {
               target="_blank"
               className={classes.a}
             >
-              Creative Tim
+              Simple Record
             </a>
-            , made with love for a better web
+            , code by Jayden
           </span>
         </p>
       </div>
